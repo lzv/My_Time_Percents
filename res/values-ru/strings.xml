@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Time Percents</string><string name="period_started">Учитываемый период начат:</string>
+    <string name="minutes_plus">Время в +:</string>
+    <string name="minutes_minus">Время в -:</string>
+    <string name="minutes_all">Всего времени:</string>
+    <string name="plus_time_percent">Процент времени +:</string>
+    <string name="from_last_check">Не учтено:</string>
+    <string name="period_not_started">Учет временного периода еще не начат.</string>
+    <string name="start_period">Начать учет</string>
+    <string name="restart_period">Сброс</string>
+    <string name="menu_help">Справка</string>
+    <string name="menu_about">О программе</string>
+    <string name="full_info_help">
+        Программа предназначена для определения, какой процент времени тратится на полезные дела.\n 
+        Нажмите кнопку \"Начать учет\", и начнется учет нового временного периода. Нажимая на плюс или 
+        на минус, вы указываете, с пользой был проведен отрезок времени, или нет. Строка 
+        \"Процент времени +\" покажет отношение полезного времени ко всему прошедшему времени.\n
+        Нажмите кнопку \"Сброс\", что бы начать учет нового периода.
+        </string>
+    <string name="full_info_about">Создатель программы: Виктор LzV Лазуков.</string>
+    
+    
+</resources>

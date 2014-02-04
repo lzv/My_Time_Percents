@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Time Percents</string>
+    <string name="period_started">Period started in:</string>
+    <string name="minutes_plus">+ time:</string>
+    <string name="minutes_minus">- time:</string>
+    <string name="minutes_all">All time:</string>
+    <string name="plus_time_percent">Percent of + time:</string>
+    <string name="from_last_check">From last check:</string>
+    <string name="period_not_started">Time period is not started.</string>
+    <string name="start_period">Start period</string>
+    <string name="restart_period">Clear all</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About</string>
+    <string name="full_info_help">
+        The program is designed to determine what percentage of time spent on useful things.\n 
+        Press button \"Start period\" for beginning of accounting time period. 
+        Press \"+\" if time was well spent. Click \"-\" if otherwise.
+        Row \"Percent of + time\" shows the ratio of productive time to all time.\n
+        Press \"Clear all\" for accounting of new time period.
+        </string>
+    <string name="full_info_about">Program author: Victor (LzV) Lazukov.</string>
+    
+</resources>
